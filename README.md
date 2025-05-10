@@ -1,42 +1,48 @@
 <h1 align="center">Hey there, I'm Priyanshu!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+Django+Lover;PostgreSQL+Enthusiast;Problem+Solver;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Django+DRF+Expert;Celery+%26+Redis+Lover;Kafka+%7C+Elasticsearch+%7C+Docker+Fan;Always+Learning+%F0%9F%92%AB&center=true&width=500&height=45">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django&logoColor=red"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ### **About Me**
 
-- **Backend Developer** passionate about building scalable systems with Python, Django & PostgreSQL.
-- Interned at **Coworking Studio**, optimizing APIs and databases.
-- Built **StayHive**, an end-to-end booking system with real-time data handling.
-- Created an **Email Tracker System** to monitor email open rates.
-- Currently seeking opportunities to work on impactful products!
+- **Django Backend Developer** with experience building scalable, production-grade applications.
+- Built projects like **StayHive** (real-time booking system) and an **Email Tracker** using DRF & Celery.
+- Interned at **Coworking Studio**, improving API speed and database performance.
+- Passionate about system design, microservices, and building tools that solve real-world problems.
+- Exploring data streaming, distributed systems, and search engines!
 
 ---
 
-### **What I Use**
+### **Tech Stack**
 
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks:** Django, Django REST Framework  
-- **Database:** PostgreSQL, SQLite  
-- **Tools:** Git, Docker, Celery, Redis, AWS (S3)  
-- **Editor:** VS Code  
+- **Databases:** PostgreSQL, SQLite  
+- **Messaging & Queues:** Kafka, Redis, Celery  
+- **Search:** Elasticsearch  
+- **DevOps:** Docker, Git, AWS (S3)  
 
 ---
 
-### **My GitHub Stats**
+### **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-31&show_icons=true&theme=radical" alt="Priyanshu's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-31&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu69code&show_icons=true&theme=radical" alt="Priyanshu's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu69code&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -44,13 +50,13 @@
 ### **Let's Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshukumar69" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://github.com/priyanshu69code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
