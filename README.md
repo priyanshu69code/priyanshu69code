@@ -20,10 +20,9 @@
 ### **About Me**
 
 - **Django Backend Developer** with experience building scalable, production-grade applications.
-- Built projects like **StayHive** (real-time booking system) and an **Email Tracker** using DRF & Celery.
-- Interned at **Coworking Studio**, improving API speed and database performance.
-- Passionate about system design, microservices, and building tools that solve real-world problems.
-- Exploring data streaming, distributed systems, and search engines!
+- Built projects like **StayHive** and a real-time **Email Tracking System** using DRF, Celery & Redis.
+- Interned at **Coworking Studio**, improving API speed and DB efficiency.
+- Passionate about system design, search engines, and event-driven architecture.
 
 ---
 
@@ -33,16 +32,20 @@
 - **Frameworks:** Django, Django REST Framework  
 - **Databases:** PostgreSQL, SQLite  
 - **Messaging & Queues:** Kafka, Redis, Celery  
-- **Search:** Elasticsearch  
-- **DevOps:** Docker, Git, AWS (S3)  
+- **Search Engines:** Elasticsearch  
+- **DevOps:** Docker, Git, AWS (S3)
 
 ---
 
 ### **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu69code&show_icons=true&theme=radical" alt="Priyanshu's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu69code&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=priyanshu69code&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=priyanshu69code&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu69code&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
