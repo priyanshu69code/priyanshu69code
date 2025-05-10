@@ -40,8 +40,8 @@
 ### **GitHub Stats**
 
 <p align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/api?username=priyanshu69code&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=priyanshu69code&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ten-nu-47.vercel.app//api?username=priyanshu69code&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-nu-47.vercel.app//api/top-langs/?username=priyanshu69code&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
