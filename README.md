@@ -21,7 +21,7 @@
 
 - **Django Backend Developer** with experience building scalable, production-grade applications.
 - Built projects like **StayHive** and a real-time **Email Tracking System** using DRF, Celery & Redis.
-- Interned at **Coworking Studio**, improving API speed and DB efficiency.
+- Interned at **WhatBytes**, improving API speed and DB efficiency.
 - Passionate about system design, search engines, and event-driven architecture.
 
 ---
