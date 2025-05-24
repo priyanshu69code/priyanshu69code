@@ -28,7 +28,7 @@
 
 ### **Tech Stack**
 
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, C, SQL  
 - **Frameworks:** Django, Django REST Framework  
 - **Databases:** PostgreSQL, SQLite  
 - **Messaging & Queues:** Kafka, Redis, Celery  
